@@ -12,7 +12,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "青春，之所以耀眼动人，是因为它燃烧了自己，照亮了别人。阳光，原来可以如此明亮而温暖。望着彩旗飘扬，望着这些笑容明媚目光坚定的人们——铁路人，心里的感动无法言喻。我深深感觉到青春可以无悔、无撼。青春从来未有过它的界限，而其本身又是一种很冷酷的界限，它意味着一种纯净的美好，无论忧伤与快乐，是过去还是现在，或是将来。它总是来过……"
-sidebar-avatar: img/avatar-by.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/222.gif      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
